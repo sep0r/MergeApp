@@ -1,0 +1,36 @@
+2021-02-19 16:26:22,910 INFO  ru.demapp.Union.unionRows:12 - Combine into one list
+2021-02-19 16:26:22,914 INFO  ru.demapp.Merge.mergeWithoutNull:15 - Data is combined without considering all markers
+2021-02-19 16:26:22,914 INFO  ru.demapp.Merge.sortingAndSum:57 - Different markers conversion to standard markers
+2021-02-19 16:26:22,915 INFO  ru.demapp.Merge.mergeByMarkers:22 - Data combined with all markers
+2021-02-19 16:26:22,916 INFO  ru.demapp.Merge.sortingAndSum:57 - Different markers conversion to standard markers
+2021-02-19 16:26:22,916 INFO  ru.demapp.Merge.mergeIntoArr:32 - Data combined to arrays and sorted
+2021-02-19 16:26:22,917 INFO  ru.demapp.Union.unionRows:12 - Combine into one list
+2021-02-19 16:26:22,918 INFO  ru.demapp.Merge.mergeWithoutNull:15 - Data is combined without considering all markers
+2021-02-19 16:26:22,924 INFO  ru.demapp.Merge.sortingAndSum:57 - Different markers conversion to standard markers
+2021-02-19 16:26:22,924 INFO  ru.demapp.Merge.mergeByMarkers:22 - Data combined with all markers
+2021-02-19 16:26:22,924 INFO  ru.demapp.Merge.sortingAndSum:57 - Different markers conversion to standard markers
+2021-02-19 16:26:22,925 INFO  ru.demapp.Merge.mergeIntoArr:32 - Data combined to arrays and sorted
+2021-02-19 16:26:22,925 INFO  ru.demapp.Union.unionRows:12 - Combine into one list
+2021-02-19 16:26:22,925 INFO  ru.demapp.Merge.mergeWithoutNull:15 - Data is combined without considering all markers
+2021-02-19 16:26:22,925 INFO  ru.demapp.Merge.sortingAndSum:57 - Different markers conversion to standard markers
+2021-02-19 16:26:22,926 INFO  ru.demapp.Merge.mergeByMarkers:22 - Data combined with all markers
+2021-02-19 16:26:22,926 INFO  ru.demapp.Merge.sortingAndSum:57 - Different markers conversion to standard markers
+2021-02-19 16:26:22,926 INFO  ru.demapp.Merge.mergeIntoArr:32 - Data combined to arrays and sorted
+2021-02-19 16:26:22,926 INFO  ru.demapp.Union.unionRows:12 - Combine into one list
+2021-02-19 16:26:22,926 INFO  ru.demapp.Merge.mergeWithoutNull:15 - Data is combined without considering all markers
+2021-02-19 16:26:22,927 INFO  ru.demapp.Merge.sortingAndSum:57 - Different markers conversion to standard markers
+2021-02-19 16:26:22,927 INFO  ru.demapp.Merge.mergeByMarkers:22 - Data combined with all markers
+2021-02-19 16:26:22,927 INFO  ru.demapp.Merge.sortingAndSum:57 - Different markers conversion to standard markers
+2021-02-19 16:26:22,927 INFO  ru.demapp.Merge.mergeIntoArr:32 - Data combined to arrays and sorted
+2021-02-19 16:26:22,927 INFO  ru.demapp.Union.unionRows:12 - Combine into one list
+2021-02-19 16:26:22,927 INFO  ru.demapp.Merge.mergeWithoutNull:15 - Data is combined without considering all markers
+2021-02-19 16:26:22,928 INFO  ru.demapp.Merge.sortingAndSum:57 - Different markers conversion to standard markers
+2021-02-19 16:26:22,928 INFO  ru.demapp.Merge.mergeByMarkers:22 - Data combined with all markers
+2021-02-19 16:26:22,928 INFO  ru.demapp.Merge.sortingAndSum:57 - Different markers conversion to standard markers
+2021-02-19 16:26:22,928 INFO  ru.demapp.Merge.mergeIntoArr:32 - Data combined to arrays and sorted
+2021-02-19 16:26:22,929 INFO  ru.demapp.Union.unionRows:12 - Combine into one list
+2021-02-19 16:26:22,929 INFO  ru.demapp.Merge.mergeWithoutNull:15 - Data is combined without considering all markers
+2021-02-19 16:26:22,929 INFO  ru.demapp.Merge.sortingAndSum:57 - Different markers conversion to standard markers
+2021-02-19 16:26:22,929 INFO  ru.demapp.Merge.mergeByMarkers:22 - Data combined with all markers
+2021-02-19 16:26:22,930 INFO  ru.demapp.Merge.sortingAndSum:57 - Different markers conversion to standard markers
+2021-02-19 16:26:22,930 INFO  ru.demapp.Merge.mergeIntoArr:32 - Data combined to arrays and sorted

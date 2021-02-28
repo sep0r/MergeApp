@@ -8,7 +8,8 @@ import java.util.List;
 
 public class ParserCsv {
     public static List<String[]> read(String address) throws IOException {
-        CSVReader reader = new CSVReader(new FileReader(address), ',', '"', 1);
-        return reader.readAll();
+        try (CSVReader reader = new CSVReader(new FileReader(address), ',', '"', 1)) {
+            return reader.readAll();
+        }
     }
 }

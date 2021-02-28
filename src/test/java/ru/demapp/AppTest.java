@@ -8,8 +8,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
 
-public class AppTest 
-{
+public class AppTest {
     public AppTest() {
         new Merge();
     }
@@ -23,24 +22,14 @@ public class AppTest
     protected static final String[] arr5 = {"MaRk01", "40"};
     protected static final String[] arr6 = {"mark03", "10"};
 
-    protected static final List<String[]> rows1;
-    protected static final List<String[]> rows2;
-    protected static final List<String[]> rows3;
-
     List<String[]> allRows;
     Map<String, Integer> mapResult1;
     Map<String, Integer> mapResult2;
     Map<String, Integer[]> mapResult3;
 
-    static {
-        rows1 = Arrays.asList(arr1, arr2);
-        rows2 = Arrays.asList(arr3, arr4);
-        rows3 = Arrays.asList(arr5, arr6);
-    }
-
     @Before
-    public void setUp(){
-        allRows = Union.unionRows(rows1, rows2, rows3);
+    public void setUp() {
+        allRows = Arrays.asList(arr1, arr2, arr3, arr4, arr5, arr6);
         mapResult1 = Merge.mergeWithoutNull(allRows, markers);
         mapResult2 = Merge.mergeByMarkers(allRows, markers);
         mapResult3 = Merge.mergeIntoArr(allRows, markers);
@@ -80,7 +69,7 @@ public class AppTest
 
     @Test
     public void counterArr() {
-        Integer [] num  = mapResult3.get("mark01");
+        Integer[] num = mapResult3.get("mark01");
         int count = num.length;
         Assert.assertEquals(2, count);
     }
